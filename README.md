@@ -1,6 +1,6 @@
 ## ¡Bienvenid@ a mi perfil de GitHub!
 
-Mi nombre es Juan Acuña, tengo 22 años y soy estudiante en el último semestre de Ingeniería en Informática.
+Mi nombre es Juan Acuña, tengo 23 años y soy Ingeniero en Informática.
 Actualmente desarrollo pequeños proyectos en mis ratos libres con el fin de mejorar y practicar.
 
 ### Tecnologías de desarrollo
