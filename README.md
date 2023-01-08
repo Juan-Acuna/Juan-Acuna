@@ -1,15 +1,7 @@
-## ¡Bienvenid@ a mi perfil de GitHub!
+## Juan Ignacio Acuña Valladares
+Tengo 24 años y soy desarrollador web. Motivado por entender como funcionaban las computadoras y sus programas, mi carrera como informático comenzó con la búsqueda y el aprendizaje autodidacta. El primer lenguaje de programación que conocí fue Java. Aproximadamente en esa misma época, aprendí como estaban estructuradas las páginas web, siendo capas de realizar paginas web básicas, pero que aplicaban los principios de HTML, incluyendo estilos básicos. Actualmente, ya titulado de Ingeniería en Informática, manejo tecnologías de desarrollo web avanzadas, bases de datos y la lógica de programación.
 
-Mi nombre es Juan Acuña, tengo 23 años y soy Ingeniero en Informática.
-Actualmente desarrollo pequeños proyectos en mis ratos libres con el fin de mejorar y practicar.
-
-### Tecnologías de desarrollo
-
-Los lenguajes de programación con los que tengo mayor afinidad son Java y C#. También tengo conocimientos de programación en Python 3, PHP, JavaScript y PL/SQL de ORACLE.
-
-En cuanto a frameworks de desarrollo, el que mejor conozco es Djago de Python. Actualmente estoy aprendiendo sobre los frameworks Spring de Java y laravel 9 de PHP.
-
-Tengo conocimientos en desarrollo de APIs RESTFULL con .NET Core 2.2, Consumo de APIs REST en C# (.NET Framework), Python 3 (con librería [Requests](https://requests.readthedocs.io/en/master/)), PHP y en JavaScript.
+Me gusta aprender cosas nuevas todos los días. Tengo conocimientos en los lenguajes de programación Java, Python y C#. Mi fuerte es el desarrollo web, Utilizando frameworks como Laravel de PHP y Django con Python 3. En cuanto a herramientas frontend, Tailwind CSS y Bootstrap para estilos y JQuery para una mayor compatibilidad del código entre navegadores.
 
 
 <!--
