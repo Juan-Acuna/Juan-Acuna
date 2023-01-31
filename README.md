@@ -1,7 +1,7 @@
 ## Juan Ignacio Acuña Valladares
-Tengo 24 años y soy desarrollador web. Motivado por entender como funcionaban las computadoras y sus programas, mi carrera como informático comenzó con la búsqueda y el aprendizaje autodidacta. El primer lenguaje de programación que conocí fue Java. Aproximadamente en esa misma época, aprendí como estaban estructuradas las páginas web, siendo capas de realizar paginas web básicas, pero que aplicaban los principios de HTML, incluyendo estilos básicos. Actualmente, ya titulado de Ingeniería en Informática, manejo tecnologías de desarrollo web avanzadas, bases de datos y la lógica de programación.
+Ingeniero en Informática, interesado en desempeñarme en desarrollo web. Con conocimientos en tecnologías de desarrollo web avanzadas, bases de datos, la lógica de programación y control de versiones.
 
-Me gusta aprender cosas nuevas todos los días. Tengo conocimientos en los lenguajes de programación Java, Python y C#. Mi fuerte es el desarrollo web, Utilizando frameworks como Laravel de PHP y Django con Python 3. En cuanto a herramientas frontend, Tailwind CSS y Bootstrap para estilos y JQuery para una mayor compatibilidad del código entre navegadores.
+Actualmente mi fuerte es el desarrollo web, utilizando frameworks como Laravel de PHP y Django con Python 3. En cuanto a herramientas frontend, Tailwind CSS y Bootstrap para estilos y JQuery para una mayor compatibilidad del código entre navegadores. También poseo conocimientos en los lenguajes de programación Java y C#.
 
 
 <!--
