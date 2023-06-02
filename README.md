@@ -1,7 +1,11 @@
 ## Juan Ignacio Acuña Valladares
-Ingeniero en Informática, interesado en desempeñarme en desarrollo web. Con conocimientos en tecnologías de desarrollo web avanzadas, bases de datos, la lógica de programación y control de versiones.
+Ingeniero en Informática, interesado en desempeñarme en desarrollo web. Con conocimientos en tecnologías de desarrollo web avanzadas, bases de datos, la lógica de programación y control de versiones.  
 
-Actualmente mi fuerte es el desarrollo web, utilizando frameworks como Laravel de PHP y Django con Python 3. En cuanto a herramientas frontend, Tailwind CSS y Bootstrap para estilos y JQuery para una mayor compatibilidad del código entre navegadores. También poseo conocimientos en los lenguajes de programación Java y C#.
+Motivado por entender como funcionaban las computadoras y sus programas, mi carrera como informático comenzó con el aprendizaje autodidacta, buscando aprender cosas nuevas todos los días, con el objetivo de aumentar mis habilidades profesionales.  
+
+Actualmente mi fuerte es el desarrollo web, utilizando frameworks como Laravel de PHP y Django con Python 3. En cuanto a herramientas frontend, Tailwind CSS, Bootstrap, React.js y JQuery. También poseo conocimientos en Node.js y en los lenguajes de programación Java y C#.  
+
+Entre mis competencias profesionales cuento con capacidad de trabajo en equipo, gestión del tiempo, creatividad y organización.
 
 
 <!--
