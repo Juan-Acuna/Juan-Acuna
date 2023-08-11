@@ -1,5 +1,4 @@
-## Juan Ignacio Acuña Valladares
-Ingeniero en Informática, interesado en desempeñarme en desarrollo web. Con conocimientos en tecnologías de desarrollo web avanzadas, bases de datos, la lógica de programación y control de versiones.
+Ingeniero en Informática, desarrollador web fullstack.
 
 Motivado por entender como funcionaban las computadoras y sus programas, mi carrera como informático comenzó con el aprendizaje autodidacta, buscando aprender cosas nuevas todos los días, con el objetivo de aumentar mis habilidades profesionales. 
 
